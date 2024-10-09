@@ -16,17 +16,15 @@ libraryDependencies ++= Seq(
   "org.mongodb.spark" %% "mongo-spark-connector" % "3.0.1"
 )
 
-// Configuración para fork y opciones de JVM
+
 fork in run := true
 
 javaOptions in run ++= Seq(
   "--add-exports", "java.base/sun.nio.ch=ALL-UNNAMED"
 )
 
-// Repositorios
 resolvers += "Maven Central" at "https://repo1.maven.org/maven2/"
 
-// Estrategia de fusión de archivos para el ensamblado
 assemblyMergeStrategy in assembly := {
   case "META-INF/MANIFEST.MF" => MergeStrategy.discard
   case "META-INF" => MergeStrategy.discard
@@ -35,4 +33,4 @@ assemblyMergeStrategy in assembly := {
 }
 
 // Especifica la clase principal
-mainClass in assembly := Some("etl_api_bluelytics")
+mainClass in assembly := Some("etl_api_bluelytics") 
