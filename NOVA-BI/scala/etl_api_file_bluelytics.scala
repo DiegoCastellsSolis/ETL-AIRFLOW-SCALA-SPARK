@@ -5,7 +5,7 @@ import java.nio.file.{Files, Paths}
 import java.nio.charset.StandardCharsets
 import java.time.Instant
 
-object etl_api_bluelytics {
+object etl_api_file_bluelytics {
   def main(args: Array[String]): Unit = {
     val url = "https://api.bluelytics.com.ar/v2/evolution.json"
 

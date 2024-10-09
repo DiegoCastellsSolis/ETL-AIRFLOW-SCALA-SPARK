@@ -5,7 +5,7 @@ import com.mongodb.spark.config._
 import org.apache.spark.sql.{SparkSession, SaveMode}
 
 
-object etl_db_pg_to_mongo {
+object etl_db_pg_mongo {
   def main(args: Array[String]): Unit = {
         
     // Crear un SparkSession

@@ -2,7 +2,7 @@ import org.apache.spark.sql.{SparkSession, DataFrame}
 import java.util.Properties
 import org.apache.log4j.{Level, Logger}
 
-object etl_file_bluelytics {
+object etl_file_pg_bluelytics {
   def main(args: Array[String]): Unit = {
     // Configurar el logging
     Logger.getLogger("org").setLevel(Level.ERROR)
