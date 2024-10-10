@@ -34,9 +34,8 @@ object etl_db_file_dolar_month {
       .write
       .mode("overwrite") // Cambia a "append" si es necesario
       .partitionBy("año", "mes") // Crea carpetas por año y mes
-      //.format("csv") // Cambia a "csv" si prefieres
-      //.save("/home/diego/Escritorio/ETL-AIRFLOW-SCALA-SPARK/NOVA-BI/_data/target/dolar") // Cambia a tu ruta deseada
-      .csv("/home/diego/Escritorio/ETL-AIRFLOW-SCALA-SPARK/NOVA-BI/_data/target/dolar") // Cambia a tu ruta deseada
+      .format("parquet") // Cambia a "csv" si prefieres
+      .save("/home/diego/Escritorio/ETL-AIRFLOW-SCALA-SPARK/NOVA-BI/_data/target/dolar") // Cambia a tu ruta deseada
 
     spark.stop()
   }
