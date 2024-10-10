@@ -1,0 +1,189 @@
+[2024-06-13T19:07:32.730-0300] {processor.py:157} INFO - Started process (PID=13771) to work on /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:07:32.734-0300] {processor.py:829} INFO - Processing file /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py for tasks to queue
+[2024-06-13T19:07:32.739-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:07:32.739-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:07:32.812-0300] {processor.py:839} INFO - DAG(s) dict_keys(['stg_api_to_csv']) retrieved from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:07:32.891-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:07:32.890-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-06-13T19:07:32.997-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:07:32.997-0300] {dag.py:3722} INFO - Setting next_dagrun for stg_api_to_csv to 2024-06-13T00:00:00+00:00, run_after=2024-06-14T00:00:00+00:00
+[2024-06-13T19:07:33.055-0300] {processor.py:179} INFO - Processing /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py took 0.335 seconds
+[2024-06-13T19:08:03.393-0300] {processor.py:157} INFO - Started process (PID=14274) to work on /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:08:03.394-0300] {processor.py:829} INFO - Processing file /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py for tasks to queue
+[2024-06-13T19:08:03.396-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:08:03.396-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:08:03.407-0300] {processor.py:839} INFO - DAG(s) dict_keys(['stg_api_to_csv']) retrieved from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:08:03.441-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:08:03.440-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-06-13T19:08:03.466-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:08:03.466-0300] {dag.py:3722} INFO - Setting next_dagrun for stg_api_to_csv to 2024-06-13T00:00:00+00:00, run_after=2024-06-14T00:00:00+00:00
+[2024-06-13T19:08:03.489-0300] {processor.py:179} INFO - Processing /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py took 0.099 seconds
+[2024-06-13T19:08:33.783-0300] {processor.py:157} INFO - Started process (PID=14310) to work on /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:08:33.784-0300] {processor.py:829} INFO - Processing file /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py for tasks to queue
+[2024-06-13T19:08:33.786-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:08:33.786-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:08:33.798-0300] {processor.py:839} INFO - DAG(s) dict_keys(['stg_api_to_csv']) retrieved from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:08:33.833-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:08:33.832-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-06-13T19:08:33.861-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:08:33.860-0300] {dag.py:3722} INFO - Setting next_dagrun for stg_api_to_csv to 2024-06-13T00:00:00+00:00, run_after=2024-06-14T00:00:00+00:00
+[2024-06-13T19:08:33.883-0300] {processor.py:179} INFO - Processing /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py took 0.103 seconds
+[2024-06-13T19:09:04.158-0300] {processor.py:157} INFO - Started process (PID=14349) to work on /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:09:04.159-0300] {processor.py:829} INFO - Processing file /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py for tasks to queue
+[2024-06-13T19:09:04.161-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:09:04.161-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:09:04.172-0300] {processor.py:839} INFO - DAG(s) dict_keys(['stg_api_to_csv']) retrieved from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:09:04.209-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:09:04.208-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-06-13T19:09:04.239-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:09:04.238-0300] {dag.py:3722} INFO - Setting next_dagrun for stg_api_to_csv to 2024-06-13T00:00:00+00:00, run_after=2024-06-14T00:00:00+00:00
+[2024-06-13T19:09:04.270-0300] {processor.py:179} INFO - Processing /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py took 0.115 seconds
+[2024-06-13T19:09:34.555-0300] {processor.py:157} INFO - Started process (PID=14384) to work on /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:09:34.556-0300] {processor.py:829} INFO - Processing file /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py for tasks to queue
+[2024-06-13T19:09:34.558-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:09:34.558-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:09:34.568-0300] {processor.py:839} INFO - DAG(s) dict_keys(['stg_api_to_csv']) retrieved from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:09:34.606-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:09:34.605-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-06-13T19:09:34.630-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:09:34.630-0300] {dag.py:3722} INFO - Setting next_dagrun for stg_api_to_csv to 2024-06-13T00:00:00+00:00, run_after=2024-06-14T00:00:00+00:00
+[2024-06-13T19:09:34.654-0300] {processor.py:179} INFO - Processing /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py took 0.104 seconds
+[2024-06-13T19:10:04.835-0300] {processor.py:157} INFO - Started process (PID=14422) to work on /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:10:04.836-0300] {processor.py:829} INFO - Processing file /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py for tasks to queue
+[2024-06-13T19:10:04.838-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:10:04.838-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:10:04.847-0300] {processor.py:839} INFO - DAG(s) dict_keys(['stg_api_to_csv']) retrieved from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:10:04.884-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:10:04.883-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-06-13T19:10:04.910-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:10:04.910-0300] {dag.py:3722} INFO - Setting next_dagrun for stg_api_to_csv to 2024-06-13T00:00:00+00:00, run_after=2024-06-14T00:00:00+00:00
+[2024-06-13T19:10:04.936-0300] {processor.py:179} INFO - Processing /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py took 0.104 seconds
+[2024-06-13T19:10:35.306-0300] {processor.py:157} INFO - Started process (PID=14546) to work on /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:10:35.307-0300] {processor.py:829} INFO - Processing file /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py for tasks to queue
+[2024-06-13T19:10:35.316-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:10:35.316-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:10:35.332-0300] {processor.py:839} INFO - DAG(s) dict_keys(['stg_api_to_csv']) retrieved from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:10:35.386-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:10:35.385-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-06-13T19:10:35.417-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:10:35.416-0300] {dag.py:3722} INFO - Setting next_dagrun for stg_api_to_csv to 2024-06-13T00:00:00+00:00, run_after=2024-06-14T00:00:00+00:00
+[2024-06-13T19:10:35.465-0300] {processor.py:179} INFO - Processing /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py took 0.163 seconds
+[2024-06-13T19:11:05.826-0300] {processor.py:157} INFO - Started process (PID=14886) to work on /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:11:05.827-0300] {processor.py:829} INFO - Processing file /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py for tasks to queue
+[2024-06-13T19:11:05.829-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:11:05.829-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:11:05.839-0300] {processor.py:839} INFO - DAG(s) dict_keys(['stg_api_to_csv']) retrieved from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:11:05.876-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:11:05.875-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-06-13T19:11:05.913-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:11:05.913-0300] {dag.py:3722} INFO - Setting next_dagrun for stg_api_to_csv to 2024-06-13T00:00:00+00:00, run_after=2024-06-14T00:00:00+00:00
+[2024-06-13T19:11:05.943-0300] {processor.py:179} INFO - Processing /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py took 0.120 seconds
+[2024-06-13T19:11:36.158-0300] {processor.py:157} INFO - Started process (PID=15231) to work on /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:11:36.159-0300] {processor.py:829} INFO - Processing file /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py for tasks to queue
+[2024-06-13T19:11:36.162-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:11:36.161-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:11:36.178-0300] {processor.py:839} INFO - DAG(s) dict_keys(['stg_api_to_csv']) retrieved from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:11:36.235-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:11:36.234-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-06-13T19:11:36.285-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:11:36.285-0300] {dag.py:3722} INFO - Setting next_dagrun for stg_api_to_csv to 2024-06-13T00:00:00+00:00, run_after=2024-06-14T00:00:00+00:00
+[2024-06-13T19:11:36.322-0300] {processor.py:179} INFO - Processing /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py took 0.170 seconds
+[2024-06-13T19:12:06.678-0300] {processor.py:157} INFO - Started process (PID=15497) to work on /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:12:06.679-0300] {processor.py:829} INFO - Processing file /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py for tasks to queue
+[2024-06-13T19:12:06.683-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:12:06.682-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:12:06.694-0300] {processor.py:839} INFO - DAG(s) dict_keys(['stg_api_to_csv']) retrieved from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:12:06.726-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:12:06.726-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-06-13T19:12:06.749-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:12:06.749-0300] {dag.py:3722} INFO - Setting next_dagrun for stg_api_to_csv to 2024-06-13T00:00:00+00:00, run_after=2024-06-14T00:00:00+00:00
+[2024-06-13T19:12:06.773-0300] {processor.py:179} INFO - Processing /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py took 0.099 seconds
+[2024-06-13T19:12:37.020-0300] {processor.py:157} INFO - Started process (PID=15632) to work on /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:12:37.021-0300] {processor.py:829} INFO - Processing file /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py for tasks to queue
+[2024-06-13T19:12:37.023-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:12:37.023-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:12:37.034-0300] {processor.py:839} INFO - DAG(s) dict_keys(['stg_api_to_csv']) retrieved from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:12:37.068-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:12:37.068-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-06-13T19:12:37.096-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:12:37.096-0300] {dag.py:3722} INFO - Setting next_dagrun for stg_api_to_csv to 2024-06-13T00:00:00+00:00, run_after=2024-06-14T00:00:00+00:00
+[2024-06-13T19:12:37.117-0300] {processor.py:179} INFO - Processing /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py took 0.101 seconds
+[2024-06-13T19:13:07.404-0300] {processor.py:157} INFO - Started process (PID=15984) to work on /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:13:07.405-0300] {processor.py:829} INFO - Processing file /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py for tasks to queue
+[2024-06-13T19:13:07.407-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:13:07.406-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:13:07.416-0300] {processor.py:839} INFO - DAG(s) dict_keys(['stg_api_to_csv']) retrieved from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:13:07.451-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:13:07.449-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-06-13T19:13:07.478-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:13:07.478-0300] {dag.py:3722} INFO - Setting next_dagrun for stg_api_to_csv to 2024-06-13T00:00:00+00:00, run_after=2024-06-14T00:00:00+00:00
+[2024-06-13T19:13:07.498-0300] {processor.py:179} INFO - Processing /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py took 0.097 seconds
+[2024-06-13T19:13:37.901-0300] {processor.py:157} INFO - Started process (PID=16224) to work on /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:13:37.902-0300] {processor.py:829} INFO - Processing file /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py for tasks to queue
+[2024-06-13T19:13:37.904-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:13:37.904-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:13:37.912-0300] {processor.py:839} INFO - DAG(s) dict_keys(['stg_api_to_csv']) retrieved from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:13:37.947-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:13:37.947-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-06-13T19:13:37.969-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:13:37.969-0300] {dag.py:3722} INFO - Setting next_dagrun for stg_api_to_csv to 2024-06-13T00:00:00+00:00, run_after=2024-06-14T00:00:00+00:00
+[2024-06-13T19:13:38.005-0300] {processor.py:179} INFO - Processing /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py took 0.107 seconds
+[2024-06-13T19:14:08.349-0300] {processor.py:157} INFO - Started process (PID=16396) to work on /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:14:08.349-0300] {processor.py:829} INFO - Processing file /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py for tasks to queue
+[2024-06-13T19:14:08.351-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:14:08.351-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:14:08.362-0300] {processor.py:839} INFO - DAG(s) dict_keys(['stg_api_to_csv']) retrieved from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:14:08.400-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:14:08.399-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-06-13T19:14:08.425-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:14:08.425-0300] {dag.py:3722} INFO - Setting next_dagrun for stg_api_to_csv to 2024-06-13T00:00:00+00:00, run_after=2024-06-14T00:00:00+00:00
+[2024-06-13T19:14:08.462-0300] {processor.py:179} INFO - Processing /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py took 0.116 seconds
+[2024-06-13T19:14:38.745-0300] {processor.py:157} INFO - Started process (PID=16559) to work on /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:14:38.746-0300] {processor.py:829} INFO - Processing file /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py for tasks to queue
+[2024-06-13T19:14:38.748-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:14:38.748-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:14:38.757-0300] {processor.py:839} INFO - DAG(s) dict_keys(['stg_api_to_csv']) retrieved from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:14:38.790-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:14:38.789-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-06-13T19:14:38.814-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:14:38.814-0300] {dag.py:3722} INFO - Setting next_dagrun for stg_api_to_csv to 2024-06-13T00:00:00+00:00, run_after=2024-06-14T00:00:00+00:00
+[2024-06-13T19:14:38.831-0300] {processor.py:179} INFO - Processing /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py took 0.090 seconds
+[2024-06-13T19:15:09.110-0300] {processor.py:157} INFO - Started process (PID=16689) to work on /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:15:09.117-0300] {processor.py:829} INFO - Processing file /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py for tasks to queue
+[2024-06-13T19:15:09.119-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:15:09.119-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:15:09.128-0300] {processor.py:839} INFO - DAG(s) dict_keys(['stg_api_to_csv']) retrieved from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:15:09.162-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:15:09.161-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-06-13T19:15:09.187-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:15:09.186-0300] {dag.py:3722} INFO - Setting next_dagrun for stg_api_to_csv to 2024-06-13T00:00:00+00:00, run_after=2024-06-14T00:00:00+00:00
+[2024-06-13T19:15:09.219-0300] {processor.py:179} INFO - Processing /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py took 0.112 seconds
+[2024-06-13T19:15:43.286-0300] {processor.py:157} INFO - Started process (PID=16769) to work on /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:15:44.935-0300] {processor.py:829} INFO - Processing file /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py for tasks to queue
+[2024-06-13T19:15:44.936-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:15:44.936-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:15:44.955-0300] {processor.py:839} INFO - DAG(s) dict_keys(['stg_api_to_csv']) retrieved from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:15:45.011-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:15:45.010-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-06-13T19:15:45.054-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:15:45.054-0300] {dag.py:3722} INFO - Setting next_dagrun for stg_api_to_csv to 2024-06-13T00:00:00+00:00, run_after=2024-06-14T00:00:00+00:00
+[2024-06-13T19:15:45.962-0300] {processor.py:179} INFO - Processing /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py took 2.682 seconds
+[2024-06-13T19:16:16.786-0300] {processor.py:157} INFO - Started process (PID=16862) to work on /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:16:16.797-0300] {processor.py:829} INFO - Processing file /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py for tasks to queue
+[2024-06-13T19:16:16.799-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:16:16.798-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:16:16.809-0300] {processor.py:839} INFO - DAG(s) dict_keys(['stg_api_to_csv']) retrieved from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:16:16.845-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:16:16.845-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-06-13T19:16:16.868-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:16:16.868-0300] {dag.py:3722} INFO - Setting next_dagrun for stg_api_to_csv to 2024-06-13T00:00:00+00:00, run_after=2024-06-14T00:00:00+00:00
+[2024-06-13T19:16:16.893-0300] {processor.py:179} INFO - Processing /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py took 0.111 seconds
+[2024-06-13T19:16:47.181-0300] {processor.py:157} INFO - Started process (PID=17000) to work on /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:16:47.182-0300] {processor.py:829} INFO - Processing file /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py for tasks to queue
+[2024-06-13T19:16:47.184-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:16:47.183-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:16:47.202-0300] {processor.py:839} INFO - DAG(s) dict_keys(['stg_api_to_csv']) retrieved from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:16:47.243-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:16:47.243-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-06-13T19:16:47.269-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:16:47.269-0300] {dag.py:3722} INFO - Setting next_dagrun for stg_api_to_csv to 2024-06-13T00:00:00+00:00, run_after=2024-06-14T00:00:00+00:00
+[2024-06-13T19:16:47.296-0300] {processor.py:179} INFO - Processing /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py took 0.120 seconds
+[2024-06-13T19:17:17.585-0300] {processor.py:157} INFO - Started process (PID=17319) to work on /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:17:17.595-0300] {processor.py:829} INFO - Processing file /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py for tasks to queue
+[2024-06-13T19:17:17.596-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:17:17.596-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:17:17.614-0300] {processor.py:839} INFO - DAG(s) dict_keys(['stg_api_to_csv']) retrieved from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:17:17.670-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:17:17.670-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-06-13T19:17:17.699-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:17:17.699-0300] {dag.py:3722} INFO - Setting next_dagrun for stg_api_to_csv to 2024-06-13T00:00:00+00:00, run_after=2024-06-14T00:00:00+00:00
+[2024-06-13T19:17:17.720-0300] {processor.py:179} INFO - Processing /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py took 0.140 seconds
+[2024-06-13T19:17:48.023-0300] {processor.py:157} INFO - Started process (PID=17455) to work on /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:17:48.032-0300] {processor.py:829} INFO - Processing file /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py for tasks to queue
+[2024-06-13T19:17:48.033-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:17:48.033-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:17:48.051-0300] {processor.py:839} INFO - DAG(s) dict_keys(['stg_api_to_csv']) retrieved from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:17:48.108-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:17:48.107-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-06-13T19:17:48.137-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:17:48.137-0300] {dag.py:3722} INFO - Setting next_dagrun for stg_api_to_csv to 2024-06-13T00:00:00+00:00, run_after=2024-06-14T00:00:00+00:00
+[2024-06-13T19:17:48.157-0300] {processor.py:179} INFO - Processing /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py took 0.139 seconds
+[2024-06-13T19:18:18.425-0300] {processor.py:157} INFO - Started process (PID=17571) to work on /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:18:18.438-0300] {processor.py:829} INFO - Processing file /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py for tasks to queue
+[2024-06-13T19:18:18.439-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:18:18.439-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:18:18.457-0300] {processor.py:839} INFO - DAG(s) dict_keys(['stg_api_to_csv']) retrieved from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:18:18.508-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:18:18.508-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-06-13T19:18:18.530-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:18:18.529-0300] {dag.py:3722} INFO - Setting next_dagrun for stg_api_to_csv to 2024-06-13T00:00:00+00:00, run_after=2024-06-14T00:00:00+00:00
+[2024-06-13T19:18:18.552-0300] {processor.py:179} INFO - Processing /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py took 0.132 seconds
+[2024-06-13T19:18:48.888-0300] {processor.py:157} INFO - Started process (PID=17638) to work on /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:18:48.897-0300] {processor.py:829} INFO - Processing file /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py for tasks to queue
+[2024-06-13T19:18:48.898-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:18:48.898-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:18:48.916-0300] {processor.py:839} INFO - DAG(s) dict_keys(['stg_api_to_csv']) retrieved from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:18:48.965-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:18:48.965-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-06-13T19:18:48.989-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:18:48.989-0300] {dag.py:3722} INFO - Setting next_dagrun for stg_api_to_csv to 2024-06-13T00:00:00+00:00, run_after=2024-06-14T00:00:00+00:00
+[2024-06-13T19:18:49.009-0300] {processor.py:179} INFO - Processing /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py took 0.126 seconds
+[2024-06-13T19:19:19.323-0300] {processor.py:157} INFO - Started process (PID=17690) to work on /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:19:19.335-0300] {processor.py:829} INFO - Processing file /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py for tasks to queue
+[2024-06-13T19:19:19.336-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:19:19.336-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:19:19.355-0300] {processor.py:839} INFO - DAG(s) dict_keys(['stg_api_to_csv']) retrieved from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:19:19.404-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:19:19.404-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-06-13T19:19:19.427-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:19:19.427-0300] {dag.py:3722} INFO - Setting next_dagrun for stg_api_to_csv to 2024-06-13T00:00:00+00:00, run_after=2024-06-14T00:00:00+00:00
+[2024-06-13T19:19:19.451-0300] {processor.py:179} INFO - Processing /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py took 0.133 seconds
+[2024-06-13T19:19:49.763-0300] {processor.py:157} INFO - Started process (PID=17823) to work on /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:19:49.764-0300] {processor.py:829} INFO - Processing file /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py for tasks to queue
+[2024-06-13T19:19:49.765-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:19:49.765-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:19:49.784-0300] {processor.py:839} INFO - DAG(s) dict_keys(['stg_api_to_csv']) retrieved from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:19:49.826-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:19:49.825-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-06-13T19:19:49.847-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:19:49.847-0300] {dag.py:3722} INFO - Setting next_dagrun for stg_api_to_csv to 2024-06-13T00:00:00+00:00, run_after=2024-06-14T00:00:00+00:00
+[2024-06-13T19:19:49.874-0300] {processor.py:179} INFO - Processing /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py took 0.117 seconds
+[2024-06-13T19:20:20.070-0300] {processor.py:157} INFO - Started process (PID=17943) to work on /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:20:20.077-0300] {processor.py:829} INFO - Processing file /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py for tasks to queue
+[2024-06-13T19:20:20.078-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:20:20.078-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:20:20.088-0300] {processor.py:839} INFO - DAG(s) dict_keys(['stg_api_to_csv']) retrieved from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:20:20.116-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:20:20.115-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-06-13T19:20:20.137-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:20:20.137-0300] {dag.py:3722} INFO - Setting next_dagrun for stg_api_to_csv to 2024-06-13T00:00:00+00:00, run_after=2024-06-14T00:00:00+00:00
+[2024-06-13T19:20:20.155-0300] {processor.py:179} INFO - Processing /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py took 0.089 seconds
+[2024-06-13T19:20:50.354-0300] {processor.py:157} INFO - Started process (PID=18124) to work on /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:20:50.355-0300] {processor.py:829} INFO - Processing file /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py for tasks to queue
+[2024-06-13T19:20:50.356-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:20:50.356-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:20:50.365-0300] {processor.py:839} INFO - DAG(s) dict_keys(['stg_api_to_csv']) retrieved from /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py
+[2024-06-13T19:20:50.399-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:20:50.398-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-06-13T19:20:50.421-0300] {logging_mixin.py:151} INFO - [2024-06-13T19:20:50.421-0300] {dag.py:3722} INFO - Setting next_dagrun for stg_api_to_csv to 2024-06-13T00:00:00+00:00, run_after=2024-06-14T00:00:00+00:00
+[2024-06-13T19:20:50.446-0300] {processor.py:179} INFO - Processing /home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py took 0.096 seconds

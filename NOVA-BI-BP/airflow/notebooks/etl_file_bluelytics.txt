@@ -1,0 +1,39 @@
+import org.apache.spark.sql.{SparkSession, DataFrame}
+import java.util.Properties
+
+
+object etl_file_bluelytics {
+  def main(args: Array[String]): Unit = {
+    // Iniciar la sesión de Spark
+    val spark = SparkSession.builder
+      .appName("Postgres Connection Example")
+      .master("local[*]")
+      .getOrCreate()
+
+    // Configurar la conexión a PostgreSQL
+    val url = "jdbc:postgresql://localhost:5432/postgres"  // Asegúrate de que la URL esté correcta
+    val properties = new Properties()
+    properties.setProperty("user", "bi2024")              // Usuario de PostgreSQL
+    properties.setProperty("password", "bi2024")          // Contraseña del usuario
+    properties.setProperty("driver", "org.postgresql.Driver")  // Driver JDBC
+
+    // Cargar un DataFrame desde un archivo json
+    val path_csv: String = "/home/diego/Escritorio/NOVA-BI/_data/input/dolar.csv"
+    val df: DataFrame = spark.read
+      .option("header", "true") // Indica que el primer fila es el encabezado
+      .option("inferSchema", "true") // Inferir el tipo de datos
+      .csv(path_csv) // Especifica la ruta al archivo CSV
+    
+    // Mostrar el esquema del DataFrame
+    df.printSchema()
+
+    // Mostrar las primeras filas del DataFrame
+    df.show()
+
+    // Escribir el DataFrame a PostgreSQL (crear tabla e insertar datos)
+    df.write.mode("overwrite").jdbc(url, "dbo.dolar_value", properties)
+    
+    // Detener la sesión de Spark
+    spark.stop()
+  }
+}

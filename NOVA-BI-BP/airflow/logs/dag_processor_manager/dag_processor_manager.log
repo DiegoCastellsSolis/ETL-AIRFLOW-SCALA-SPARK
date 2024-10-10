@@ -1,0 +1,1111 @@
+[2024-06-13T19:07:30.826-0300] {manager.py:487} INFO - Processing files using up to 2 processes at a time 
+[2024-06-13T19:07:30.826-0300] {manager.py:488} INFO - Process each file at most once every 30 seconds
+[2024-06-13T19:07:30.826-0300] {manager.py:489} INFO - Checking for new files in /home/diego/Escritorio/AIRFLOW/airflow/dags every 300 seconds
+[2024-06-13T19:07:30.826-0300] {manager.py:755} INFO - Searching for files in /home/diego/Escritorio/AIRFLOW/airflow/dags
+[2024-06-13T19:07:30.829-0300] {manager.py:758} INFO - There are 4 files in /home/diego/Escritorio/AIRFLOW/airflow/dags
+[2024-06-13T19:07:32.508-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_csv_to_csv.py                             0           0
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_post_to_snow.py  13749  0.16s             0           0
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py                             0           0
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_mail.py   13752  0.15s             0           0
+================================================================================
+[2024-06-13T19:08:03.249-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_csv_to_csv.py                             1           0  0.51s           2024-06-13T22:07:33
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_post_to_snow.py  14258  0.02s             1           0  0.29s           2024-06-13T22:07:32
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py                             1           0  0.42s           2024-06-13T22:07:33
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_mail.py   14261  0.01s             1           0  0.25s           2024-06-13T22:07:32
+================================================================================
+[2024-06-13T19:08:33.624-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_csv_to_csv.py                             1           0  0.12s           2024-06-13T22:08:03
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_post_to_snow.py  14291  0.02s             1           0  0.11s           2024-06-13T22:08:03
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py                             1           0  0.12s           2024-06-13T22:08:03
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_mail.py   14294  0.01s             1           0  0.13s           2024-06-13T22:08:03
+================================================================================
+[2024-06-13T19:09:04.004-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_csv_to_csv.py                             1           0  0.13s           2024-06-13T22:08:33
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_post_to_snow.py  14331  0.02s             1           0  0.13s           2024-06-13T22:08:33
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py                             1           0  0.12s           2024-06-13T22:08:33
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_mail.py   14334  0.01s             1           0  0.15s           2024-06-13T22:08:33
+================================================================================
+[2024-06-13T19:09:34.416-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_csv_to_csv.py                             1           0  0.15s           2024-06-13T22:09:04
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_post_to_snow.py  14368  0.02s             1           0  0.13s           2024-06-13T22:09:04
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py                             1           0  0.14s           2024-06-13T22:09:04
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_mail.py   14371  0.01s             1           0  0.14s           2024-06-13T22:09:04
+================================================================================
+[2024-06-13T19:10:04.695-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_csv_to_csv.py                             1           0  0.14s           2024-06-13T22:09:34
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_post_to_snow.py  14403  0.02s             1           0  0.12s           2024-06-13T22:09:34
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py                             1           0  0.12s           2024-06-13T22:09:34
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_mail.py   14406  0.01s             1           0  0.12s           2024-06-13T22:09:34
+================================================================================
+[2024-06-13T19:10:35.073-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_csv_to_csv.py                             1           0  0.13s           2024-06-13T22:10:04
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_post_to_snow.py  14526  0.02s             1           0  0.11s           2024-06-13T22:10:04
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py                             1           0  0.13s           2024-06-13T22:10:04
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_mail.py   14529  0.01s             1           0  0.12s           2024-06-13T22:10:04
+================================================================================
+[2024-06-13T19:11:05.543-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_csv_to_csv.py                             1           0  0.17s           2024-06-13T22:10:35
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_post_to_snow.py  14860  0.02s             1           0  0.15s           2024-06-13T22:10:35
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py                             1           0  0.21s           2024-06-13T22:10:35
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_mail.py   14863  0.01s             1           0  0.18s           2024-06-13T22:10:35
+================================================================================
+[2024-06-13T19:11:35.959-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_csv_to_csv.py                             1           0  0.13s           2024-06-13T22:11:05
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_post_to_snow.py  15215  0.02s             1           0  0.16s           2024-06-13T22:11:05
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py                             1           0  0.14s           2024-06-13T22:11:05
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_mail.py   15218  0.01s             1           0  0.15s           2024-06-13T22:11:05
+================================================================================
+[2024-06-13T19:12:06.392-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_csv_to_csv.py                             1           0  0.16s           2024-06-13T22:11:36
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_post_to_snow.py  15472  0.02s             1           0  0.15s           2024-06-13T22:11:36
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py                             1           0  0.21s           2024-06-13T22:11:36
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_mail.py   15475  0.01s             1           0  0.17s           2024-06-13T22:11:36
+================================================================================
+[2024-06-13T19:12:30.880-0300] {manager.py:755} INFO - Searching for files in /home/diego/Escritorio/AIRFLOW/airflow/dags
+[2024-06-13T19:12:30.887-0300] {manager.py:758} INFO - There are 4 files in /home/diego/Escritorio/AIRFLOW/airflow/dags
+[2024-06-13T19:12:36.835-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_csv_to_csv.py                             1           0  0.14s           2024-06-13T22:12:06
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_post_to_snow.py  15612  0.02s             1           0  0.13s           2024-06-13T22:12:06
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py                             1           0  0.12s           2024-06-13T22:12:06
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_mail.py   15615  0.01s             1           0  0.14s           2024-06-13T22:12:06
+================================================================================
+[2024-06-13T19:13:07.267-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_csv_to_csv.py                             1           0  0.15s           2024-06-13T22:12:37
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_post_to_snow.py  15968  0.03s             1           0  0.13s           2024-06-13T22:12:36
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py                             1           0  0.13s           2024-06-13T22:12:37
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_mail.py   15971  0.01s             1           0  0.16s           2024-06-13T22:12:36
+================================================================================
+[2024-06-13T19:13:37.640-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_csv_to_csv.py                             1           0  0.13s           2024-06-13T22:13:07
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_post_to_snow.py  16203  0.02s             1           0  0.11s           2024-06-13T22:13:07
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py                             1           0  0.12s           2024-06-13T22:13:07
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_mail.py   16206  0.01s             1           0  0.13s           2024-06-13T22:13:07
+================================================================================
+[2024-06-13T19:14:08.065-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_csv_to_csv.py                             1           0  0.12s           2024-06-13T22:13:37
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_post_to_snow.py  16375  0.02s             1           0  0.13s           2024-06-13T22:13:37
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py                             1           0  0.13s           2024-06-13T22:13:38
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_mail.py   16378  0.01s             1           0  0.13s           2024-06-13T22:13:37
+================================================================================
+[2024-06-13T19:14:38.615-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_csv_to_csv.py    16550  0.01s             1           0  0.14s           2024-06-13T22:14:08
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_post_to_snow.py                           1           0  0.21s           2024-06-13T22:14:35
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py                             1           0  0.14s           2024-06-13T22:14:08
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_mail.py   16547  0.01s             1           0  0.15s           2024-06-13T22:14:08
+================================================================================
+[2024-06-13T19:15:08.982-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_csv_to_csv.py    16680  0.01s             1           0  0.12s           2024-06-13T22:14:38
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_post_to_snow.py                           1           0  0.13s           2024-06-13T22:15:06
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py                             1           0  0.11s           2024-06-13T22:14:38
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_mail.py   16677  0.01s             1           0  0.14s           2024-06-13T22:14:38
+================================================================================
+[2024-06-13T19:15:39.241-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_csv_to_csv.py                             1           0  0.13s           2024-06-13T22:15:09
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_post_to_snow.py  16750  0.02s             1           0  0.13s           2024-06-13T22:15:06
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py                             1           0  0.13s           2024-06-13T22:15:09
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_mail.py   16753  0.01s             1           0  0.13s           2024-06-13T22:15:09
+================================================================================
+[2024-06-13T19:16:09.575-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_csv_to_csv.py                             1           0  2.28s           2024-06-13T22:15:45
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_post_to_snow.py                           1           0  3.97s           2024-06-13T22:15:43
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py                             1           0  2.71s           2024-06-13T22:15:45
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_mail.py                            1           0  3.97s           2024-06-13T22:15:43
+================================================================================
+[2024-06-13T19:16:39.972-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_csv_to_csv.py                             1           0  0.12s           2024-06-13T22:16:15
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_post_to_snow.py                           1           0  0.12s           2024-06-13T22:16:13
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py                             1           0  0.14s           2024-06-13T22:16:16
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_mail.py                            1           0  0.14s           2024-06-13T22:16:13
+================================================================================
+[2024-06-13T19:17:10.385-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_csv_to_csv.py                             1           0  0.16s           2024-06-13T22:16:46
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_post_to_snow.py                           1           0  0.11s           2024-06-13T22:16:44
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py                             1           0  0.14s           2024-06-13T22:16:47
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_mail.py                            1           0  0.13s           2024-06-13T22:16:44
+================================================================================
+[2024-06-13T19:17:31.737-0300] {manager.py:755} INFO - Searching for files in /home/diego/Escritorio/AIRFLOW/airflow/dags
+[2024-06-13T19:17:31.742-0300] {manager.py:758} INFO - There are 4 files in /home/diego/Escritorio/AIRFLOW/airflow/dags
+[2024-06-13T19:17:40.815-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_csv_to_csv.py                             1           0  0.12s           2024-06-13T22:17:16
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_post_to_snow.py                           1           0  0.12s           2024-06-13T22:17:14
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py                             1           0  0.16s           2024-06-13T22:17:17
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_mail.py                            1           0  0.13s           2024-06-13T22:17:14
+================================================================================
+[2024-06-13T19:18:11.212-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_csv_to_csv.py                             1           0  0.12s           2024-06-13T22:17:47
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_post_to_snow.py                           1           0  0.12s           2024-06-13T22:17:44
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py                             1           0  0.16s           2024-06-13T22:17:48
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_mail.py                            1           0  0.13s           2024-06-13T22:17:44
+================================================================================
+[2024-06-13T19:18:41.676-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_csv_to_csv.py                             1           0  0.16s           2024-06-13T22:18:17
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_post_to_snow.py                           1           0  0.13s           2024-06-13T22:18:15
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py                             1           0  0.16s           2024-06-13T22:18:18
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_mail.py                            1           0  0.13s           2024-06-13T22:18:15
+================================================================================
+[2024-06-13T19:19:12.096-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_csv_to_csv.py                             1           0  0.16s           2024-06-13T22:18:47
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_post_to_snow.py                           1           0  0.10s           2024-06-13T22:18:45
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py                             1           0  0.15s           2024-06-13T22:18:49
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_mail.py                            1           0  0.13s           2024-06-13T22:18:45
+================================================================================
+[2024-06-13T19:19:42.557-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_csv_to_csv.py                             1           0  0.16s           2024-06-13T22:19:18
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_post_to_snow.py                           1           0  0.14s           2024-06-13T22:19:16
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py                             1           0  0.16s           2024-06-13T22:19:19
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_mail.py                            1           0  0.15s           2024-06-13T22:19:16
+================================================================================
+[2024-06-13T19:20:12.863-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_csv_to_csv.py                             1           0  0.19s           2024-06-13T22:19:48
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_post_to_snow.py                           1           0  0.12s           2024-06-13T22:19:46
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py                             1           0  0.14s           2024-06-13T22:19:49
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_mail.py                            1           0  0.12s           2024-06-13T22:19:46
+================================================================================
+[2024-06-13T19:20:43.177-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_csv_to_csv.py                             1           0  0.29s           2024-06-13T22:20:19
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_post_to_snow.py                           1           0  0.11s           2024-06-13T22:20:16
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_csv.py                             1           0  0.11s           2024-06-13T22:20:20
+/home/diego/Escritorio/AIRFLOW/airflow/dags/stg_api_to_mail.py                            1           0  0.13s           2024-06-13T22:20:17
+================================================================================
+[2024-10-06T18:54:47.847-0300] {manager.py:487} INFO - Processing files using up to 2 processes at a time 
+[2024-10-06T18:54:47.862-0300] {manager.py:488} INFO - Process each file at most once every 30 seconds
+[2024-10-06T18:54:47.862-0300] {manager.py:489} INFO - Checking for new files in /home/diego/Escritorio/NOVA-BI/airflow/dags every 300 seconds
+[2024-10-06T18:54:47.863-0300] {manager.py:755} INFO - Searching for files in /home/diego/Escritorio/NOVA-BI/airflow/dags
+[2024-10-06T18:54:47.865-0300] {manager.py:758} INFO - There are 2 files in /home/diego/Escritorio/NOVA-BI/airflow/dags
+[2024-10-06T18:54:48.735-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  31264  0.03s             0           0
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.79s           2024-10-06T21:54:48
+================================================================================
+[2024-10-06T18:55:18.939-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  31830  0.01s             1           0  0.11s           2024-10-06T21:54:48
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py  31827  0.02s             1           0  0.79s           2024-10-06T21:54:48
+================================================================================
+[2024-10-06T18:55:49.130-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  32106  0.01s             1           0  0.12s           2024-10-06T21:55:19
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py  32103  0.03s             1           0  0.14s           2024-10-06T21:55:19
+================================================================================
+[2024-10-06T18:56:19.357-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  32517  0.01s             1           0  0.11s           2024-10-06T21:55:49
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py  32514  0.02s             1           0  0.13s           2024-10-06T21:55:49
+================================================================================
+[2024-10-06T18:56:49.559-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  32776  0.01s             1           0  0.12s           2024-10-06T21:56:19
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py  32773  0.02s             1           0  0.13s           2024-10-06T21:56:19
+================================================================================
+[2024-10-06T18:57:19.787-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  33186  0.01s             1           0  0.12s           2024-10-06T21:56:49
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py  33183  0.02s             1           0  0.13s           2024-10-06T21:56:49
+================================================================================
+[2024-10-06T18:57:49.983-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  33447  0.01s             1           0  0.12s           2024-10-06T21:57:19
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py  33444  0.02s             1           0  0.13s           2024-10-06T21:57:19
+================================================================================
+[2024-10-06T18:58:20.206-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  33871  0.01s             1           0  0.12s           2024-10-06T21:57:50
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py  33866  0.02s             1           0  0.13s           2024-10-06T21:57:50
+================================================================================
+[2024-10-06T18:58:50.405-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  34221  0.01s             1           0  0.12s           2024-10-06T21:58:20
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py  34218  0.02s             1           0  0.13s           2024-10-06T21:58:20
+================================================================================
+[2024-10-06T18:59:20.680-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  34552  0.01s             1           0  0.11s           2024-10-06T21:58:50
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py  34549  0.02s             1           0  0.13s           2024-10-06T21:58:50
+================================================================================
+[2024-10-06T18:59:47.902-0300] {manager.py:755} INFO - Searching for files in /home/diego/Escritorio/NOVA-BI/airflow/dags
+[2024-10-06T18:59:47.908-0300] {manager.py:758} INFO - There are 2 files in /home/diego/Escritorio/NOVA-BI/airflow/dags
+[2024-10-06T18:59:50.859-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  34899  0.01s             1           0  0.11s           2024-10-06T21:59:20
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py  34896  0.02s             1           0  0.12s           2024-10-06T21:59:20
+================================================================================
+[2024-10-06T19:00:21.171-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  35367  0.01s             1           0  0.14s           2024-10-06T21:59:50
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py  35364  0.02s             1           0  0.15s           2024-10-06T21:59:50
+================================================================================
+[2024-10-06T19:00:51.504-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  35621  0.02s             1           0  0.11s           2024-10-06T22:00:21
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.23s           2024-10-06T22:00:31
+================================================================================
+[2024-10-06T19:01:21.689-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  36147  0.01s             1           0  0.17s           2024-10-06T22:00:51
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.12s           2024-10-06T22:01:01
+================================================================================
+[2024-10-06T19:01:51.955-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  36401  0.01s             1           0  0.11s           2024-10-06T22:01:21
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.13s           2024-10-06T22:01:31
+================================================================================
+[2024-10-06T19:02:22.226-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  36573  0.01s             1           0  0.11s           2024-10-06T22:01:52
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.13s           2024-10-06T22:02:02
+================================================================================
+[2024-10-06T19:02:52.535-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  36916  0.01s             1           0  0.16s           2024-10-06T22:02:22
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.15s           2024-10-06T22:02:32
+================================================================================
+[2024-10-06T19:03:22.820-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  37404  0.01s             1           0  0.14s           2024-10-06T22:02:52
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.11s           2024-10-06T22:03:02
+================================================================================
+[2024-10-06T19:03:53.095-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  37628  0.01s             1           0  0.12s           2024-10-06T22:03:22
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.14s           2024-10-06T22:03:33
+================================================================================
+[2024-10-06T19:04:23.355-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  37780  0.01s             1           0  0.11s           2024-10-06T22:03:53
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.13s           2024-10-06T22:04:03
+================================================================================
+[2024-10-06T19:04:48.620-0300] {manager.py:755} INFO - Searching for files in /home/diego/Escritorio/NOVA-BI/airflow/dags
+[2024-10-06T19:04:48.625-0300] {manager.py:758} INFO - There are 2 files in /home/diego/Escritorio/NOVA-BI/airflow/dags
+[2024-10-06T19:04:53.699-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  38321  0.01s             1           0  0.11s           2024-10-06T22:04:23
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.21s           2024-10-06T22:04:26
+================================================================================
+[2024-10-06T19:05:24.056-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  38593  0.01s             1           0  0.19s           2024-10-06T22:04:53
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.14s           2024-10-06T22:04:57
+================================================================================
+[2024-10-06T19:05:54.324-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  38971  0.01s             1           0  0.11s           2024-10-06T22:05:24
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.12s           2024-10-06T22:05:27
+================================================================================
+[2024-10-06T19:06:24.610-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  39886  0.01s             1           0  0.10s           2024-10-06T22:05:54
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.15s           2024-10-06T22:05:57
+================================================================================
+[2024-10-06T19:06:54.862-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  40278  0.01s             1           0  0.10s           2024-10-06T22:06:24
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.16s           2024-10-06T22:06:27
+================================================================================
+[2024-10-06T19:07:25.123-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  40501  0.01s             1           0  0.11s           2024-10-06T22:06:54
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.15s           2024-10-06T22:06:58
+================================================================================
+[2024-10-06T19:07:55.390-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  40807  0.01s             1           0  0.12s           2024-10-06T22:07:25
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.12s           2024-10-06T22:07:28
+================================================================================
+[2024-10-06T19:08:25.667-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  41327  0.01s             1           0  0.10s           2024-10-06T22:07:55
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.20s           2024-10-06T22:07:58
+================================================================================
+[2024-10-06T19:08:55.948-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  41938  0.01s             1           0  0.10s           2024-10-06T22:08:25
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.17s           2024-10-06T22:08:28
+================================================================================
+[2024-10-06T19:09:26.238-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  42366  0.01s             1           0  0.13s           2024-10-06T22:08:56
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.20s           2024-10-06T22:08:59
+================================================================================
+[2024-10-06T19:09:48.646-0300] {manager.py:755} INFO - Searching for files in /home/diego/Escritorio/NOVA-BI/airflow/dags
+[2024-10-06T19:09:48.663-0300] {manager.py:758} INFO - There are 2 files in /home/diego/Escritorio/NOVA-BI/airflow/dags
+[2024-10-06T19:09:56.537-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  42911  0.01s             1           0  0.15s           2024-10-06T22:09:26
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.21s           2024-10-06T22:09:29
+================================================================================
+[2024-10-06T19:10:26.821-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  42974  0.01s             1           0  0.11s           2024-10-06T22:09:56
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.13s           2024-10-06T22:09:59
+================================================================================
+[2024-10-06T19:10:57.080-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  43402  0.01s             1           0  0.10s           2024-10-06T22:10:26
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.13s           2024-10-06T22:10:29
+================================================================================
+[2024-10-06T19:11:27.343-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  43481  0.01s             1           0  0.11s           2024-10-06T22:10:57
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.13s           2024-10-06T22:11:00
+================================================================================
+[2024-10-06T19:11:57.620-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  43916  0.01s             1           0  0.11s           2024-10-06T22:11:27
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.13s           2024-10-06T22:11:30
+================================================================================
+[2024-10-06T19:12:27.898-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  44071  0.01s             1           0  0.12s           2024-10-06T22:11:57
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.14s           2024-10-06T22:12:00
+================================================================================
+[2024-10-06T19:12:58.172-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  44606  0.01s             1           0  0.12s           2024-10-06T22:12:28
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.14s           2024-10-06T22:12:31
+================================================================================
+[2024-10-06T19:13:28.432-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  44683  0.01s             1           0  0.11s           2024-10-06T22:12:58
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.13s           2024-10-06T22:13:01
+================================================================================
+[2024-10-06T19:13:58.712-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  45327  0.01s             1           0  0.12s           2024-10-06T22:13:28
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.13s           2024-10-06T22:13:31
+================================================================================
+[2024-10-06T19:14:29.007-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  46029  0.01s             1           0  0.14s           2024-10-06T22:13:58
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.14s           2024-10-06T22:14:01
+================================================================================
+[2024-10-06T19:14:49.242-0300] {manager.py:755} INFO - Searching for files in /home/diego/Escritorio/NOVA-BI/airflow/dags
+[2024-10-06T19:14:49.273-0300] {manager.py:758} INFO - There are 2 files in /home/diego/Escritorio/NOVA-BI/airflow/dags
+[2024-10-06T19:14:59.364-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  46823  0.01s             1           0  0.15s           2024-10-06T22:14:29
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.14s           2024-10-06T22:14:32
+================================================================================
+[2024-10-06T19:15:29.655-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  47446  0.01s             1           0  0.14s           2024-10-06T22:14:59
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.18s           2024-10-06T22:15:02
+================================================================================
+[2024-10-06T19:16:00.050-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  48492  0.01s             1           0  0.23s           2024-10-06T22:15:29
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.19s           2024-10-06T22:15:32
+================================================================================
+[2024-10-06T19:16:30.320-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  48706  0.01s             1           0  0.13s           2024-10-06T22:16:00
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.24s           2024-10-06T22:16:03
+================================================================================
+[2024-10-06T19:17:00.619-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  49171  0.01s             1           0  0.14s           2024-10-06T22:16:30
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.12s           2024-10-06T22:16:33
+================================================================================
+[2024-10-06T19:17:30.880-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  49260  0.01s             1           0  0.11s           2024-10-06T22:17:00
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.13s           2024-10-06T22:17:03
+================================================================================
+[2024-10-06T19:18:01.172-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  49905  0.01s             1           0  0.12s           2024-10-06T22:17:30
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.15s           2024-10-06T22:17:34
+================================================================================
+[2024-10-06T19:18:31.563-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  50250  0.03s             1           0  0.17s           2024-10-06T22:18:01
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.12s           2024-10-06T22:18:04
+================================================================================
+[2024-10-06T19:19:01.774-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py                           1           0  0.35s           2024-10-06T22:18:31
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.24s           2024-10-06T22:18:34
+================================================================================
+[2024-10-06T19:19:32.254-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  50900  0.01s             1           0  0.11s           2024-10-06T22:19:02
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.11s           2024-10-06T22:19:05
+================================================================================
+[2024-10-06T19:19:49.427-0300] {manager.py:755} INFO - Searching for files in /home/diego/Escritorio/NOVA-BI/airflow/dags
+[2024-10-06T19:19:49.448-0300] {manager.py:758} INFO - There are 2 files in /home/diego/Escritorio/NOVA-BI/airflow/dags
+[2024-10-06T19:20:02.548-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  51367  0.01s             1           0  0.10s           2024-10-06T22:19:32
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.14s           2024-10-06T22:19:35
+================================================================================
+[2024-10-06T19:20:32.841-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  51775  0.02s             1           0  0.10s           2024-10-06T22:20:02
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.13s           2024-10-06T22:20:05
+================================================================================
+[2024-10-06T19:21:03.191-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  52342  0.01s             1           0  0.21s           2024-10-06T22:20:33
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.20s           2024-10-06T22:20:36
+================================================================================
+[2024-10-06T19:21:33.494-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  52720  0.01s             1           0  0.12s           2024-10-06T22:21:03
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.13s           2024-10-06T22:21:06
+================================================================================
+[2024-10-06T19:22:03.928-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  53348  0.01s             1           0  0.17s           2024-10-06T22:21:33
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.18s           2024-10-06T22:21:36
+================================================================================
+[2024-10-06T19:22:34.211-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  53440  0.01s             1           0  0.13s           2024-10-06T22:22:04
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.13s           2024-10-06T22:22:07
+================================================================================
+[2024-10-06T19:23:04.492-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  54161  0.01s             1           0  0.12s           2024-10-06T22:22:34
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.16s           2024-10-06T22:22:37
+================================================================================
+[2024-10-06T19:23:34.753-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  54451  0.01s             1           0  0.11s           2024-10-06T22:23:04
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.13s           2024-10-06T22:23:07
+================================================================================
+[2024-10-06T19:24:04.948-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py                           1           0  0.23s           2024-10-06T22:23:34
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.17s           2024-10-06T22:23:37
+================================================================================
+[2024-10-06T19:24:35.374-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  55127  0.01s             1           0  0.12s           2024-10-06T22:24:05
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.14s           2024-10-06T22:24:08
+================================================================================
+[2024-10-06T19:24:49.556-0300] {manager.py:755} INFO - Searching for files in /home/diego/Escritorio/NOVA-BI/airflow/dags
+[2024-10-06T19:24:49.587-0300] {manager.py:758} INFO - There are 2 files in /home/diego/Escritorio/NOVA-BI/airflow/dags
+[2024-10-06T19:25:05.714-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  55811  0.01s             1           0  0.10s           2024-10-06T22:24:35
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.15s           2024-10-06T22:24:38
+================================================================================
+[2024-10-06T19:25:36.012-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  56167  0.01s             1           0  0.14s           2024-10-06T22:25:05
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.13s           2024-10-06T22:25:08
+================================================================================
+[2024-10-06T19:26:06.328-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  56988  0.01s             1           0  0.16s           2024-10-06T22:25:36
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.23s           2024-10-06T22:25:39
+================================================================================
+[2024-10-06T19:26:36.584-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  57076  0.01s             1           0  0.11s           2024-10-06T22:26:06
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.13s           2024-10-06T22:26:09
+================================================================================
+[2024-10-06T19:27:06.850-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  57720  0.01s             1           0  0.12s           2024-10-06T22:26:36
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.13s           2024-10-06T22:26:39
+================================================================================
+[2024-10-06T19:27:37.092-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  58331  0.01s             1           0  0.10s           2024-10-06T22:27:06
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.13s           2024-10-06T22:27:10
+================================================================================
+[2024-10-06T19:28:07.432-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  59170  0.01s             1           0  0.18s           2024-10-06T22:27:37
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.15s           2024-10-06T22:27:40
+================================================================================
+[2024-10-06T19:28:37.773-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  59738  0.02s             1           0  0.14s           2024-10-06T22:28:07
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.14s           2024-10-06T22:28:10
+================================================================================
+[2024-10-06T19:29:08.079-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  60717  0.01s             1           0  0.17s           2024-10-06T22:28:37
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.13s           2024-10-06T22:28:52
+================================================================================
+[2024-10-06T19:29:38.414-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  61178  0.02s             1           0  0.12s           2024-10-06T22:29:08
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.18s           2024-10-06T22:29:22
+================================================================================
+[2024-10-06T19:29:49.565-0300] {manager.py:755} INFO - Searching for files in /home/diego/Escritorio/NOVA-BI/airflow/dags
+[2024-10-06T19:29:49.583-0300] {manager.py:758} INFO - There are 2 files in /home/diego/Escritorio/NOVA-BI/airflow/dags
+[2024-10-06T19:30:08.789-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  61740  0.01s             1           0  0.20s           2024-10-06T22:29:38
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.16s           2024-10-06T22:29:52
+================================================================================
+[2024-10-06T19:30:39.102-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  61892  0.02s             1           0  0.14s           2024-10-06T22:30:08
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.13s           2024-10-06T22:30:23
+================================================================================
+[2024-10-06T19:31:09.418-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  62213  0.01s             1           0  0.16s           2024-10-06T22:30:39
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.18s           2024-10-06T22:30:53
+================================================================================
+[2024-10-06T19:31:39.700-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  62332  0.01s             1           0  0.12s           2024-10-06T22:31:09
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.13s           2024-10-06T22:31:23
+================================================================================
+[2024-10-06T19:32:09.985-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  63237  0.05s             1           0  0.14s           2024-10-06T22:31:39
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_patient_info.py                           1           0  0.17s           2024-10-06T22:31:55
+================================================================================
+[2024-10-06T20:38:09.587-0300] {manager.py:487} INFO - Processing files using up to 2 processes at a time 
+[2024-10-06T20:38:09.788-0300] {manager.py:488} INFO - Process each file at most once every 30 seconds
+[2024-10-06T20:38:09.789-0300] {manager.py:489} INFO - Checking for new files in /home/diego/Escritorio/NOVA-BI/airflow/dags every 300 seconds
+[2024-10-06T20:38:09.790-0300] {manager.py:755} INFO - Searching for files in /home/diego/Escritorio/NOVA-BI/airflow/dags
+[2024-10-06T20:38:09.793-0300] {manager.py:758} INFO - There are 2 files in /home/diego/Escritorio/NOVA-BI/airflow/dags
+[2024-10-06T20:38:10.975-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  10928  0.06s             0           0
+/home/diego/Escritorio/NOVA-BI/airflow/dags/new_etl.py                                    1           0  1.04s           2024-10-06T23:38:10
+================================================================================
+[2024-10-06T20:38:41.173-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py                           1           0  0.42s           2024-10-06T23:38:11
+/home/diego/Escritorio/NOVA-BI/airflow/dags/new_etl.py           11139  0.01s             1           0  1.04s           2024-10-06T23:38:10
+================================================================================
+[2024-10-06T20:39:11.626-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  11574  0.01s             1           0  0.16s           2024-10-06T23:38:41
+/home/diego/Escritorio/NOVA-BI/airflow/dags/new_etl.py           11571  0.04s             1           0  0.20s           2024-10-06T23:38:41
+================================================================================
+[2024-10-06T20:39:42.119-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  11805  0.02s             1           0  0.25s           2024-10-06T23:39:11
+/home/diego/Escritorio/NOVA-BI/airflow/dags/new_etl.py           11802  0.04s             1           0  0.23s           2024-10-06T23:39:11
+================================================================================
+[2024-10-06T20:40:12.565-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  12021  0.02s             1           0  0.22s           2024-10-06T23:39:42
+/home/diego/Escritorio/NOVA-BI/airflow/dags/new_etl.py           12018  0.03s             1           0  0.23s           2024-10-06T23:39:42
+================================================================================
+[2024-10-06T20:40:42.792-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  12055  0.01s             1           0  0.20s           2024-10-06T23:40:12
+/home/diego/Escritorio/NOVA-BI/airflow/dags/new_etl.py           12052  0.03s             1           0  0.22s           2024-10-06T23:40:12
+================================================================================
+[2024-10-06T20:41:13.208-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  12116  0.02s             1           0  0.18s           2024-10-06T23:40:42
+/home/diego/Escritorio/NOVA-BI/airflow/dags/new_etl.py           12113  0.04s             1           0  0.20s           2024-10-06T23:40:42
+================================================================================
+[2024-10-06T20:41:43.651-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  12192  0.01s             1           0  0.23s           2024-10-06T23:41:13
+/home/diego/Escritorio/NOVA-BI/airflow/dags/new_etl.py           12189  0.03s             1           0  0.27s           2024-10-06T23:41:13
+================================================================================
+[2024-10-06T20:42:14.054-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  12250  0.01s             1           0  0.18s           2024-10-06T23:41:43
+/home/diego/Escritorio/NOVA-BI/airflow/dags/new_etl.py           12247  0.03s             1           0  0.21s           2024-10-06T23:41:43
+================================================================================
+[2024-10-06T20:42:27.145-0300] {manager.py:469} INFO - Exiting gracefully upon receiving signal 15
+[2024-10-06T20:43:31.091-0300] {manager.py:487} INFO - Processing files using up to 2 processes at a time 
+[2024-10-06T20:43:31.102-0300] {manager.py:488} INFO - Process each file at most once every 30 seconds
+[2024-10-06T20:43:31.102-0300] {manager.py:489} INFO - Checking for new files in /home/diego/Escritorio/NOVA-BI/airflow/dags every 300 seconds
+[2024-10-06T20:43:31.103-0300] {manager.py:755} INFO - Searching for files in /home/diego/Escritorio/NOVA-BI/airflow/dags
+[2024-10-06T20:43:31.108-0300] {manager.py:758} INFO - There are 2 files in /home/diego/Escritorio/NOVA-BI/airflow/dags
+[2024-10-06T20:43:32.486-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  12596  0.06s             0           0
+/home/diego/Escritorio/NOVA-BI/airflow/dags/new_etl.py                                    1           0  1.26s           2024-10-06T23:43:32
+================================================================================
+[2024-10-06T20:44:02.711-0300] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/diego/Escritorio/NOVA-BI/airflow/dags/stg_post_to_snow.py  12741  0.01s             1           0  0.18s           2024-10-06T23:43:32
+/home/diego/Escritorio/NOVA-BI/airflow/dags/new_etl.py           12738  0.03s             1           0  1.26s           2024-10-06T23:43:32
+================================================================================
+[2024-10-06T20:44:15.169-0300] {manager.py:469} INFO - Exiting gracefully upon receiving signal 15
