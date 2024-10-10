@@ -1,4 +1,13 @@
-[0m[[0m[31merror[0m] [0m[0m/home/diego/Escritorio/ETL-AIRFLOW-SCALA-SPARK/NOVA-BI/scala/etl_file_bluelytics.scala:5:8: etl_file_bluelytics is already defined as object etl_file_bluelytics[0m
-[0m[[0m[31merror[0m] [0m[0mobject etl_file_bluelytics {[0m
-[0m[[0m[31merror[0m] [0m[0m       ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0m/home/diego/Escritorio/ETL-AIRFLOW-SCALA-SPARK/NOVA-BI/scala/etl_db_file_dolar_month.scala:28:26: not found: value year[0m
+[0m[[0m[31merror[0m] [0m[0m      .withColumn("año", year(col("date")))[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/diego/Escritorio/ETL-AIRFLOW-SCALA-SPARK/NOVA-BI/scala/etl_db_file_dolar_month.scala:28:31: not found: value col[0m
+[0m[[0m[31merror[0m] [0m[0m      .withColumn("año", year(col("date")))[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/diego/Escritorio/ETL-AIRFLOW-SCALA-SPARK/NOVA-BI/scala/etl_db_file_dolar_month.scala:29:26: not found: value month[0m
+[0m[[0m[31merror[0m] [0m[0m      .withColumn("mes", month(col("date")))[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/diego/Escritorio/ETL-AIRFLOW-SCALA-SPARK/NOVA-BI/scala/etl_db_file_dolar_month.scala:29:32: not found: value col[0m
+[0m[[0m[31merror[0m] [0m[0m      .withColumn("mes", month(col("date")))[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
